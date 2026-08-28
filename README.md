@@ -50,7 +50,6 @@ Verification
 - Design for Manufacturability (DFM)
 
 Manufacturing
-
 - Gerber Generation
 - NC Drill Generation
 - Bill of Materials
