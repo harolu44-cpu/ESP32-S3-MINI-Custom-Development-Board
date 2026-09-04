@@ -1,6 +1,7 @@
 # ESP32-S3-MINI-Custom-Development-Board
 Custom 4-layer ESP32-S3-MINI development board designed in Altium Designer with USB-C, USB-to-UART, and boot/reset circuitry.
 <img width="1753" height="649" alt="pcb3d" src="https://github.com/user-attachments/assets/11c45eb1-2414-435d-b6a5-c9f5ec5efffc" />
+<img width="3024" height="4032" alt="IMG_8201" src="https://github.com/user-attachments/assets/d542960a-d0d8-4e84-89bd-8198045f85bb" />
 
 I did this project to develop practical experience with embedded hardware design, multilayer PCB layout, component selection, schematic capture, design verification, and PCB fabrication outputs.
 Features
@@ -57,4 +58,3 @@ Manufacturing
 - Pick-and-Place Generation
 - PCB Fabrication Preparation
 
-"I recently placed a order to buy 3 PCB's of this board design from OSH Park with the correct Impedences. When they arrive I will document the process of adding the components then test the board and document it on here."
